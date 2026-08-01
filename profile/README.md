@@ -1,6 +1,6 @@
 # Battlefield 2042 Xbox - Large-Scale Near-Future Warfare for PC and Console
 
-[![Download Battlefield 2042](https://img.shields.io/badge/Download-Battlefield_2042-ff8c00?style=for-the-badge&logo=ea&logoColor=white)](https://verbekegoldenestruch.github.io/.github/battlefield-2042-xbox)
+[![Download Battlefield 2042](https://img.shields.io/badge/Download-Battlefield_2042-ff8c00?style=for-the-badge&logo=ea&logoColor=white)](https://store-images.s-microsoft.com/image/apps.38194.14160631264571868.4e2a2194-8ea4-4266-ba92-577ebe02fd6b.63900eaf-50ab-41a9-8577-3ebaa902b98b)
 
 ## Battlefield 2042 Platform Snapshot
 
