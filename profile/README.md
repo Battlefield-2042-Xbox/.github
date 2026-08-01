@@ -54,7 +54,7 @@ Community research is also part of the experience. battlefield 2042 reddit threa
 
 ## Visual Reference
 
-![Battlefield 2042 squad advancing across a near-future combat zone with vehicles and storm clouds](https://mms.businesswire.com/media/20211119005465/en/929197/5/Battlefield_2042_-_Key_Art.jpg?download=1)
+![Battlefield 2042 squad advancing across a near-future combat zone with vehicles and storm clouds](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517290/capsule_616x353.jpg?t=1777324359)
 
 ## Solving Battlefield 2042 Setup Problems
 
